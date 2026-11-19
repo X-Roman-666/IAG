@@ -1,3 +1,5 @@
+<p align="center"><strong>简体中文</strong> · <a href="./README.en.md">English</a></p>
+
 <h1 align="center">IAG</h1>
 
 <p align="center"><strong>Investigation-Augmented Generation · 调查增强生成</strong></p>
@@ -13,3 +15,7 @@ IAG 希望把“调查”贯穿整个工作过程。AI 一边了解用户和实�
 我们吸收了两条指导思想：**“善假于物”**，意味着主动寻找并利用已有工具、成果和实践经验；**“调查就是解决问题”**，意味着深入了解具体情况，让事实和反馈不断修正方案。同时，把人放在中心，让用户能够理解、参与并决定自己的目标。
 
 目前，我们已经通过 **DSH Collaborator 插件**实现了初步机制，包括共同理解记录、相关成果查找指导，以及持续交流提醒。接下来要进一步明确调查行动的选择与更新机制，并验证它能否改善成果适用性、减少返工和用户负担。
+
+欢迎大家共同讨论这个想法！我们实验室很热情开放！
+
+我的邮箱：[2641663627@qq.com](mailto:2641663627@qq.com) 或 [985211@gmail.com](mailto:985211@gmail.com)
