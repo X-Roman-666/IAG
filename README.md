@@ -18,4 +18,4 @@ IAG 希望把“调查”贯穿整个工作过程。AI 一边了解用户和实�
 
 欢迎大家共同讨论这个想法！我们实验室很热情开放！
 
-我的邮箱：[2641663627@qq.com](mailto:2641663627@qq.com) 或 [985211@gmail.com](mailto:985211@gmail.com)
+我的邮箱：[2641663627@qq.com](mailto:2641663627@qq.com) 或 [xxx985211@gmail.com](mailto:xxx985211@gmail.com)

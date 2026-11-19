@@ -18,4 +18,4 @@ We have implemented initial mechanisms through the **DSH Collaborator plugin**, 
 
 Everyone is welcome to discuss this idea with us! Our lab is welcoming and open!
 
-My email: [2641663627@qq.com](mailto:2641663627@qq.com) or [985211@gmail.com](mailto:985211@gmail.com)
+My email: [2641663627@qq.com](mailto:2641663627@qq.com) or [xxx985211@gmail.com](mailto:xxx985211@gmail.com)
